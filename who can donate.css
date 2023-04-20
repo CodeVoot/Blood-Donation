@@ -1,0 +1,27 @@
+body {
+  background-image: url(/who\ can\ donate1.png);
+  background-size:500px 850px;
+  background-position-x: 1000px;
+  background-repeat: no-repeat;
+  background-color: rgb(211, 183, 183);
+  font-family: "Righteous", cursive;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 0px;
+  padding: 0px;
+}
+.heading {
+  color: rgb(162, 65, 65);
+  font-size: 40px;
+  font-style: italic;
+  text-decoration:underline;
+  text-decoration-style: double;
+  margin-left: 100px;
+}
+.pic{
+  width: 1000px;
+}
+span{
+  color: red;
+  
+}

@@ -1,0 +1,117 @@
+body {
+  background-image: url(/Lovepik_com-401398808-world-blood-donation-day-vector-blood-bag-blood-drop.png);
+  background-repeat: no-repeat;
+  background-size: 100% 900px;
+  font-family: "Righteous", cursive;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-left: 150px;
+  padding: 0px;
+  background-color: rgb(183, 174, 174);
+}
+.heading {
+  display: inline-block;
+  font-size: 40px;
+  margin-top: 0px;
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-align: left;
+  margin-left: 100px;
+}
+#name {
+  border: 2px solid grey;
+  padding: 14px;
+  margin-right: 10px;
+  border-radius: 14px;
+}
+#name:hover {
+  background-color: rgb(228, 154, 154);
+}
+#age {
+  border: 2px solid grey;
+  padding: 14px;
+  border-radius: 14px;
+  margin-right: 10px;
+}
+#age:hover {
+  background-color: rgb(228, 154, 154);
+}
+#dob {
+  border: 2px solid grey;
+  padding: 14px;
+  border-radius: 14px;
+}
+#dob:hover {
+  background-color: rgb(228, 154, 154);
+}
+#group {
+  border: 2px solid grey;
+  padding: 14px;
+  border-radius: 14px;
+  color: red;
+  font-weight: bolder;
+}
+#group:hover {
+  background-color: rgb(228, 154, 154);
+}
+#last {
+  border: 2px solid grey;
+  padding: 14px;
+  border-radius: 14px;
+}
+#last:hover {
+  background-color: rgb(228, 154, 154);
+}
+#contact {
+  border: 2px solid grey;
+  padding: 14px;
+  border-radius: 14px;
+}
+#contact:hover {
+  background-color: rgb(228, 154, 154);
+}
+#address {
+  border: 2px solid grey;
+  padding: 14px;
+  border-radius: 14px;
+}
+#address:hover {
+  background-color: rgb(228, 154, 154);
+}
+#email {
+  border: 2px solid grey;
+  padding: 14px;
+  border-radius: 14px;
+}
+#email:hover {
+  background-color: rgb(228, 154, 154);
+}
+#disease {
+  border: 2px solid grey;
+  padding: 14px;
+  border-radius: 14px;
+  color: red;
+  font-weight: bolder;
+}
+#disease:hover {
+  background-color: rgb(228, 154, 154);
+}
+.btn {
+  border: 2px solid grey;
+  padding: 14px;
+  border-radius: 14px;
+  color: red;
+  font-weight: bolder;
+}
+.btn:hover {
+  background-color: rgb(228, 154, 154);
+}
+label {
+  margin-right: 5px;
+}
+::placeholder {
+  color: red;
+  font-family: "Righteous", cursive;
+  font-weight: bold;
+}

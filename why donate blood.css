@@ -1,0 +1,22 @@
+body {
+  background-image: url(/wht\ donate\ blood.png) ;
+  background-repeat: no-repeat;
+  background-size: 100% 400px;
+  font-family: "Righteous", cursive;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 0px;
+  padding: 0px;
+  background-color: rgb(183, 174, 174);
+}
+.heading{
+    color: white;
+    font-size: 30px;
+    margin-left: 500px;
+}
+.content{
+margin-top: 200px;
+}
+span{
+    color: red;
+}
